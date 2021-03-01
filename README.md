@@ -1,5 +1,4 @@
-### 📫 How to reach me: Prex Coder#0001
-
+### 📫 How to reach me: Prex Coder#0001, alexandrusandu1999@gmail.com
 <!--
 **PrexCoder/PrexCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
